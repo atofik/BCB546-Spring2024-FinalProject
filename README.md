@@ -1,4 +1,4 @@
-# BCB546-Spring2024-FinalProject
+# BCB546-Spring2024-Final Group Project
 **Group members: Usamah Kabuye, Dabiri Damilare, Abdul Mueed, Abdulhakim Tofik, Zhang Yuwei and Aryee Randy**
 # Comparative Genomic Analysis of Uropathogenic E. coli (UPEC) Strains
 
