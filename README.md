@@ -13,7 +13,7 @@ This repository contains the (original) published paper, a portion of its reprod
 - Original paper
 
 ## Usage
-Instructions on how to run the analysis scripts and reproduce table 3 and the heatmaps are provided in the `code` directory.
+Instructions on how to run the analysis scripts i.e. reproduce table 3 and the heatmaps are provided in the `code` directory.
 
 
 
