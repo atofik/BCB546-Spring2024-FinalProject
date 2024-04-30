@@ -1,15 +1,15 @@
-# Original paper
+# Original paper description
 
-## Title: Genotype–Phenotype Correlation of β-Lactamase-Producing Uropathogenic Escherichia coli (UPEC) Strains from Bangladesh
+- **Title:** Genotype–Phenotype Correlation of β-Lactamase-Producing Uropathogenic Escherichia coli (UPEC) Strains from Bangladesh
 
-## Authors: Maqsud Hossain, Tahmina Tabassum, Aura Rahman, Arman Hossain, Tamanna Afroze, Abdul Mueed Ibne Momen, Abdus Sadique, Mrinmoy Sarker, Fariza Shams, Ahmed Ishtiaque, Abdul Khaleque, Munirul Alam, Anwar Huq, Gias U.Ahsan & Rita R. Colwell​
+- **Authors:** Maqsud Hossain, Tahmina Tabassum, Aura Rahman, Arman Hossain, Tamanna Afroze, Abdul Mueed Ibne Momen, Abdus Sadique, Mrinmoy Sarker, Fariza Shams, Ahmed Ishtiaque, Abdul Khaleque, Munirul Alam, Anwar Huq, Gias U.Ahsan & Rita R. Colwell​
 
-This file introduces the original paper, explains the technical details of the replication analyses, and summarizes the replication of the original results.
+- This file introduces the original paper, explains the technical details of the replication analyses, and summarizes the replication of the original results.
 
-## Original Study
+## Original study
 The original study conducted by Hossain et al. (2020) represents the first comparative analysis of the draft genome sequences of 11 uropathogenic *Escherichia coli* (UPEC) strains isolated from tertiary hospitals in Dhaka and Sylhet, Bangladesh. The study focused on comparing the genomic characteristics of these strains to each other and to other available UPEC strains.
 
-### Key Findings
+### Key findings
 - The strains belong to sequence types ST59, ST131, ST219, ST361, ST410, ST448, and ST4204.
 - Identification of antibiotic resistance genes blaNDM-5, blaNDM-7, blaCTX-M-15, and blaOXA-1.
 - Significant heterogeneity was observed within UPEC phylogroups in terms of virulence.
