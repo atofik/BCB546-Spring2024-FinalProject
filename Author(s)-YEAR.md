@@ -22,7 +22,7 @@
 ### Methodology
 - The analyses were replicated using the accession numbers from the original paper in conjuction with the latest online databases to generate raw data.
 - The generated raw data was analysed using Iowa State HPC nova cluster using unix commands to reproduce Table 3.
-- Python and R programming were used to reproduce two heatmaps.
+- Python and R programming were used to reproduce the heatmaps.
 
 ## Results summary
 - The replication study (confirmed a portion of the) original findings and provided additional insights into the distribution of virulence factors and antibiotic resistance genes among the UPEC strains. 
