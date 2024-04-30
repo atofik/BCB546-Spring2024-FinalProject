@@ -1,6 +1,6 @@
 library(tidyr)
 library(ggplot2)
-df <- read.delim("clipboard")
+df <- read.csv("AntibioticResistanceVirulenceHeatMap.csv", header = TRUE, sep = ",")
 gene_df <- df
 library(pheatmap)
 rownames(gene_df) <- gene_df$Gene
