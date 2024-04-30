@@ -9,6 +9,8 @@ This repository contains the (original) published paper, a portion of its reprod
 - `/data`: This directory contains reproduced data files.
 - `/code`: This directory contains the scripts for data processing and heatmap generation.
 - `/results`: This directory contains the output of the analyses, including heatmap images.
+- Power point slides (in class group presentation)
+- Original paper
 
 ## Usage
 Instructions on how to run the analysis scripts and reproduce table 3 and the heatmaps are provided in the `code` directory.
