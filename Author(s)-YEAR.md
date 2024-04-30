@@ -30,7 +30,7 @@
 - The heatmaps facilitated a clear visual contrast between the original and reproduced data.
 
 ## Conclusion
-- The replication study supports the original conclusions drawn by Hossain et al. (2020) and underscores the importance of continuous surveillance of UPEC strains for better understanding their evolution and spread of resistance.
+- The replication study supports the original conclusions drawn by Hossain et al. (2020) and underscores the importance of continuous surveillance of UPEC strains for a better understanding of their evolution and spread of resistance.
 
 ## Link to the original 
 https://www.nature.com/articles/s41598-020-71213-5
