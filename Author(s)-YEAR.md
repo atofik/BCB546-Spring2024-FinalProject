@@ -1,5 +1,3 @@
-This file introduces the original paper, explains the technical details of the replication analyses, and summarizes the replication of the original results.
-
 # Original paper: Title and authors
 
 ## Title: Genotype–Phenotype Correlation of β-Lactamase-Producing Uropathogenic Escherichia coli (UPEC) Strains from Bangladesh
