@@ -21,7 +21,7 @@
 
 ### Methodology
 - The analyses were replicated using the accession numbers from the original paper in conjuction with the latest online databases to generate raw data.
-- The data was analysed using Iowa State HPC nova cluster using unix commands to reproduce Table 3.
+- The generated raw data was analysed using Iowa State HPC nova cluster using unix commands to reproduce Table 3.
 - Python and R programming were used to reproduce two heatmaps.
 
 ## Results summary
