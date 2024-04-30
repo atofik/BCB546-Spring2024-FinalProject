@@ -14,8 +14,8 @@ The original study conducted by Hossain et al. (2020) represents the first compa
 - Identification of antibiotic resistance genes blaNDM-5, blaNDM-7, blaCTX-M-15, and blaOXA-1.
 - Significant heterogeneity was observed within UPEC phylogroups in terms of virulence.
 
-## Replication Study
-This repository contains the data, analysis scripts, and results of the replication study. The replication was focused on verifying the original findings and exploring the genotype-phenotype correlations using updated bioinformatics tools and methods.
+## Technical details of the replication analyses
+A porition of the original data was reproduced and analysed. The replication was focused on verifying the original findings and exploring the genotype-phenotype correlations using updated bioinformatics tools and methods.
 
 ### Methodology
 - **Multilocus Sequence Typing (MLST)**: The MLST analysis was replicated using the `mlst` software with the latest database updates.
