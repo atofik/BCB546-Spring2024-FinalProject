@@ -15,32 +15,21 @@ The original study conducted by Hossain et al. (2020) represents the first compa
 - Significant heterogeneity was observed within UPEC phylogroups in terms of virulence.
 
 ## Technical details of the replication analyses
-A porition of the original data was reproduced and analysed. The replication was focused on verifying the original findings and exploring the genotype-phenotype correlations using updated bioinformatics tools and methods.
+A porition of the original data was reproduced and analysed. The replication focused on verifying the original findings and exploring the genotype-phenotype correlations using updated bioinformatics tools and methods.
 
 ### Methodology
-- **Multilocus Sequence Typing (MLST)**: The MLST analysis was replicated using the `mlst` software with the latest database updates.
-- **Antibiotic Resistance Genes Identification**: The resistance genes were re-identified using the `abricate` tool against multiple databases including CARD, ResFinder, and NCBI AMRFinderPlus.
-- **Virulence Analysis**: The virulence factors were analyzed using the `vfdb` tool to compare phenotypic and genotypic data.
+- The analyses were replicated using the accession numbers from the original paper in conjuction with the latest online databases to generate raw data.
+- The data was analysed using Iowa State HPC nova cluster using unix commands to reproduce Table 3, python and R programming were used to reproduce the two heatmaps.
 
-### Data Visualization
-- Heatmaps were generated using the `pheatmap` package in R to visualize the distribution of resistance genes and virulence factors.
-- The code for generating heatmaps is available in the `scripts` directory.
-
-## Results Summary
-The replication study confirmed the original findings and provided additional insights into the distribution of virulence factors and antibiotic resistance genes among the UPEC strains. The heatmaps facilitated a clear visual representation of the data, highlighting the heterogeneity within the phylogroups.
+## Results summary
+- The replication study (confirmed a portion of the) original findings and provided additional insights into the distribution of virulence factors and antibiotic resistance genes among the UPEC strains. 
+- Table 3 illustrated the some slight variations between the original findings and reproduced data.
+- The heatmaps facilitated a clear visual contrast between the original and reproduced data.
 
 ## Conclusion
-The replication study supports the original conclusions drawn by Hossain et al. (2024) and underscores the importance of continuous surveillance of UPEC strains for better understanding their evolution and spread of resistance.
+The replication study supports the original conclusions drawn by Hossain et al. (2020) and underscores the importance of continuous surveillance of UPEC strains for better understanding their evolution and spread of resistance.
 
-## How to Use This Repository
-- Clone the repository to obtain the datasets and scripts.
-- Follow the instructions in the `scripts` directory to replicate the analysis and generate heatmaps.
+## Link to the original 
+https://www.nature.com/articles/s41598-020-71213-5
 
-## Acknowledgments
-We extend our gratitude to the original authors for their groundbreaking work and to the hospitals in Dhaka and Sylhet for their collaboration.
 
-## Citation
-Please cite this replication study as follows:
-Hossain M., Tabassum T., Rahman A., et al. (2024). Genotype–Phenotype Correlation of β-Lactamase-Producing Uropathogenic Escherichia coli (UPEC) Strains from Bangladesh. *Journal Name*, *Volume*(Issue), Pages.
-
-This markdown file serves as a comprehensive introduction and summary of both the original and replication studies, providing context, methodology, and conclusions. It also guides users on how to utilize the repository for their own analysis.
