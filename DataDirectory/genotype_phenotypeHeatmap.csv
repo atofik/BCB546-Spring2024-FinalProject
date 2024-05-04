@@ -1,0 +1,39 @@
+﻿Gene,Category,NGCE94,NGCE33,NGE4,NGE22,NGCE100,NGE5,NGE7,NGE16,NGE6,NGE9,NGE3,Antibiotics tested
+blaTEM-1B,Beta-lactam,Resistant,Resistant,Susceptible,Present,Not_present,Not_present,Not_present,Not_present,Susceptible,Not_present,Not_present,"Piperacillin/Tazobactum, Amoxyclave"
+blaOXA-1,Beta-lactam,Resistant,Resistant,Not_present,Not_present,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Amoxyclave
+blaCTX-M-15,Beta-lactam,Resistant,Not_present,Not_present,Not_present,Resistant,Not_present,Resistant,Susceptible,Not_present,Not_present,Not_present,"Cefipime, Cefotaxime, Cetazidime"
+blaCMY-2,Beta-lactam,Not_present,Not_present,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+blaDHA-1,Beta-lactam,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+blaSHV-12,Beta-lactam,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+blaNDM-1,Beta-lactam,Resistant,Not_present,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,"Imipenem, Meropenem"
+blaNDM-5,Beta-lactam,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+blaNDM-7,Beta-lactam,Not_present,Not_present,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+aadA2,Aminoglycoside,Resistant,Not_present,Not_present,Not_present,Susceptible,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,"Netilmicin, Gentamicin"
+aadA1,Aminoglycoside,Resistant,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+aadA5,Aminoglycoside,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+aadA13,Aminoglycoside,Not_present,Not_present,Not_present,Not_present,Susceptible,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+aac(3)-lld,Aminoglycoside,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+aac(6')-lc,Aminoglycoside,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+strB,Aminoglycoside,Not_present,Resistant,Susceptible,Susceptible,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+strA,Aminoglycoside,Not_present,Resistant,Not_present,Susceptible,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+rmtB,Aminoglycoside,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+aac(6')lb-cr,Fluoroquinolone,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,"Ciprofloxacin, Levofloxacin, Nalidixic Acid"
+QnrS1,Fluoroquinolone,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Susceptible,Not_present,Not_present,
+QnrS3,Fluoroquinolone,Not_present,Not_present,Not_present,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+QnrS5,Fluoroquinolone,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+QnrB4,Fluoroquinolone,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+qepA,Quinolone,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+mph(A),Macrolide,Present,Present,Present,Not_present,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Azythromycin
+mrx,Macrolide,Present,Present,Not_present,Resistant,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+catB3,Chloramphenicol,Not_present,Present,Not_present,Not_present,Not_present,Not_present,Present,Not_present,Not_present,Not_present,Not_present,NA
+catA1,Chloramphenicol,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+sul1,Sulphonamide ,Present,Present,Not_present,Not_present,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,NA
+sul2,Sulphonamide ,Not_present,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Present,Not_present,Not_present,
+sul3,Sulphonamide ,Not_present,Not_present,Present,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+tet(A),Tetracycline,Not_present,Not_present,Susceptible,Present,Not_present,Not_present,Not_present,Not_present,Susceptible,Not_present,Not_present,Tigecycline
+tet(B),Tetracycline,Susceptible,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+dfrA1,Trimethoprim,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Co-trimethaxole
+dfrA12,Trimethoprim,Resistant,Not_present,Not_present,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+dfrA17,Trimethoprim,Not_present,Resistant,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+dfrA14,Trimethoprim,Not_present,Not_present,Susceptible,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,
+erm(B),Erythromycin,Present,Not_present,Not_present,Not_present,Present,Not_present,Not_present,Not_present,Not_present,Not_present,Not_present,NA
